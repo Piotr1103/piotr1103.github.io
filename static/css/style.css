@@ -50,6 +50,10 @@ span {
 	margin: 0; 
 }
 
+.work #resume li h3 {
+	color: #fc0303;
+}
+
 h1, h2, h3, h4, h5 {
 	font-weight: 500;
 	color: #607d8b;
@@ -169,7 +173,7 @@ progress::-moz-progress-value {
 	margin-bottom: 20px;
 }
 
-.line{
+.line {
 	margin-top: 20px;
 	background-color: #e0eaf0;   
 	position: relative;
@@ -263,7 +267,7 @@ progress::-moz-progress-value {
 	
 }
 
-ul li{
+ul li {
 	position: relative;
 }
 
